@@ -1,0 +1,9 @@
+{
+  "name": "Copy of One Connexion - Driver",
+  "description": "Application mobile professionnelle pour chauffeurs et livreurs. Gestion des courses, cartographie lumineuse et suivi des gains.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
